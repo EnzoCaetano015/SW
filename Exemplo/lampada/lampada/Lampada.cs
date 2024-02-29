@@ -8,9 +8,60 @@ namespace lampada
 {
     public class Lampada
     {
-        public bool ligada { get; set; }
-        public string? Cor { get; set; }
-        public int Potencia { get; set; }
+        private bool ligada { get; set; }
+        private string? Cor { get; set; }
+        private int Potencia { get; set; }
+
+        public void ligar()
+        {
+
+            ligada = true;
+
+        }
+
+        public void Desligar()
+        {
+
+            ligada = false;
+
+        }
+
+        public bool estaLigada()
+        {
+
+            return ligada;
+
+        }
+
+        //COR
+
+        public void Cores()
+        {
+            Cor = "red";
+        }
+
+        public string qualCor()
+        {
+
+            return Cor;
+
+        }
+
+        //Potencia
+
+        public void Pot()
+        {
+
+            Potencia = 120;
+
+        }
+
+        public int qualPot()
+        {
+
+            return Potencia;
+
+        }
 
 
     }
