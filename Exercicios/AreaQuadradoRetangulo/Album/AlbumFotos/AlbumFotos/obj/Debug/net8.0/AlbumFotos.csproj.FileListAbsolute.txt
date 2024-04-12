@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\bin\Debug\net8.0\AlbumFotos.exe
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\bin\Debug\net8.0\AlbumFotos.deps.json
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\bin\Debug\net8.0\AlbumFotos.runtimeconfig.json
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\bin\Debug\net8.0\AlbumFotos.dll
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\bin\Debug\net8.0\AlbumFotos.pdb
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.AssemblyInfo.cs
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.dll
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\refint\AlbumFotos.dll
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.pdb
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\AlbumFotos.genruntimeconfig.cache
+C:\Users\caeta\Desktop\Album\AlbumFotos\AlbumFotos\obj\Debug\net8.0\ref\AlbumFotos.dll
